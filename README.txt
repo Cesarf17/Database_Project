@@ -1,0 +1,1 @@
+How the web interface code is ran is followed by coding into visual studio. The code is stored into the file location xampp->htdocs. After that there is a path created in the system of the Windows OS. Once the code is already finished, then on google we type "localhost/part1_phase3.php" the code written on visual studio code is ran by this link.
