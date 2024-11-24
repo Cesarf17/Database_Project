@@ -1,6 +1,4 @@
 <?php
-// Cesar Frayre 1001742503
-// Christopher Gonzalez 1001921715
 $connection = mysqli_connect("localhost", "root", "", "arlington_sprouts");
 
 if (!$connection) {
